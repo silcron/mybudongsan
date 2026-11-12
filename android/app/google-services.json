@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60380008604",
+    "project_id": "s2026-budongsan-s",
+    "storage_bucket": "s2026-budongsan-s.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60380008604:android:f9acb8f88009d5535e1d59",
+        "android_client_info": {
+          "package_name": "com.rollcake.mybudongsan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "YOUR_FIREBASE_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
